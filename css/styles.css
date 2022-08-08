@@ -1,0 +1,60 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(/images/fon.png);
+    color: #ffffff;
+}
+.header{
+    text-align: center;
+    margin-top: 40px;
+    color: #ffffff;
+}
+
+.mura{
+    margin-left: 100px;
+    margin-top: -204px;
+}
+
+.muratext{
+    margin-top: 670px;
+    margin-left: 100px;
+}
+
+.misho{
+    margin-left: 480px;
+    margin-top: 2px;
+}
+
+.mishotext{
+    margin-top: -255px;
+    margin-left: 445px;
+}
+
+.gabo{
+    margin-left: 860px;
+    margin-top: 2px;
+}
+
+.gabotext{
+    margin-top: -255px;
+    margin-left: 885px;
+}
+
+.vasek{
+    margin-left: 1250px;
+    margin-top: 10px;
+}
+
+.vasektext{
+    margin-top: -255px;
+    margin-left: 1260px;
+}
+
+.stepa{
+    margin-left: 1600px;
+    margin-top: 10px;
+}
+
+.stepatext{
+    margin-top: -255px;
+    margin-left: 1620px;
+}
